@@ -2,6 +2,11 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+<p align="center">
+  🔗 <a href="https://chatzip-viedo-call.onrender.com" target="_blank"><strong>🌍 Live Demo</strong></a>
+</p>
+
+
 Highlights:
 
 - 🌐 Real-time Messaging with Typing Indicators & Reactions
