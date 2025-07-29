@@ -59,13 +59,6 @@ npm run dev
 
 ### ✅ Final Step
 
-👉 Don’t forget to replace:
-
-```md
-https://chatzip-viedo-call.onrender.com
-
-
-
-<p align="center">
+<p>
   🔗 <a href="https://chatzip-viedo-call.onrender.com" target="_blank"><strong>🌍 Live Demo</strong></a>
 </p>
